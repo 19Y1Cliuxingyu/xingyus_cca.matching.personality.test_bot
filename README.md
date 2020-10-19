@@ -1,1 +1,1 @@
-# xingyus_cca.matching.personality.test_bot
+# xingyus_post.examinations.encouragement_bot
